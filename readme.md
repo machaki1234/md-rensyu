@@ -27,6 +27,10 @@ ___
 #### 見出し４
 ##### 見出し５
 ###### 見出し６
+
 - item1
 - item2
 - item3
+
+# 強調
+hello. hello. *hello. hello.* hello. hello. _hello. hello._  
