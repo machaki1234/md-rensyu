@@ -85,4 +85,7 @@ function x() {
 
 - インラインは、バッククォート1つで囲う。`Debug.Log()`はデバッグ表示
 
-![](kids_chanbara_kamifusen.png)
+# 画像
+![](kids_chanbara_kamifusen.png "irasutoya")
+
+[![](kids_chanbara_kamifusen.png "irasutoya")](https://www.irasutoya.com)
